@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "ac.rs.singidunum.magacin",
+    "name": "Magacin",
+    "size": 153,
+    "category": "Poslovanje",
+    "version": "1.0.1",
+    "enabled": true,
+    "description": "Cuvanje proizvoda u magacinima"
+}
